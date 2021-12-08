@@ -1,0 +1,30 @@
+[
+    {
+        "question": " Savol : Eng uzun daryo?",
+        "A": "A: Nil",
+        "B": "B: Sirdaryo",
+        "C": "C: Amudaryo",
+        "answer": "A"
+    },
+    {
+        "question": " Savol : O'zbekiston poytaxti?",
+        "A": "A: Surxondaryo",
+        "B": "B: Toshkent",
+        "C": "C: Farg'ona",
+        "answer": "B"
+    },
+    {
+        "question": " Savol : O'zbekiston 2 - poytaxti?",
+        "A": "A: Sirdaryo",
+        "B": "B: Toshkent",
+        "C": "C: Samarqand",
+        "answer": "C"
+    },
+    {
+        "question": " Savol : JavaScript asoschisi kim?",
+        "A": "A: Rubn Dyun",
+        "B": "B: Brendan Each",
+        "C": "C: Tim Kuk",
+        "answer": "B"
+    }
+]
